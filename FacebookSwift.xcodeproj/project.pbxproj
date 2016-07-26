@@ -82,6 +82,7 @@
 		81D646B31D2C8D7800690609 /* LikeControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81D646871D2C8D7800690609 /* LikeControl.swift */; };
 		81D646B41D2C8D7800690609 /* SendButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81D646881D2C8D7800690609 /* SendButton.swift */; };
 		81D646B51D2C8D7800690609 /* ShareButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81D646891D2C8D7800690609 /* ShareButton.swift */; };
+		81E3C0CC1D48196900C927ED /* UserProfile.FetchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E3C0CB1D48196900C927ED /* UserProfile.FetchResult.swift */; };
 		81FC4B601D064F68003F3A46 /* LoginManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FC4B5F1D064F68003F3A46 /* LoginManager.swift */; };
 		81FC4B731D064F8B003F3A46 /* LoginDefaultAudience.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FC4B721D064F8B003F3A46 /* LoginDefaultAudience.swift */; };
 		81FC4B7B1D065059003F3A46 /* LoginBehavior.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FC4B7A1D065059003F3A46 /* LoginBehavior.swift */; };
@@ -429,6 +430,7 @@
 		81D646871D2C8D7800690609 /* LikeControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LikeControl.swift; sourceTree = "<group>"; };
 		81D646881D2C8D7800690609 /* SendButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SendButton.swift; sourceTree = "<group>"; };
 		81D646891D2C8D7800690609 /* ShareButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShareButton.swift; sourceTree = "<group>"; };
+		81E3C0CB1D48196900C927ED /* UserProfile.FetchResult.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserProfile.FetchResult.swift; sourceTree = "<group>"; };
 		81FC4B5F1D064F68003F3A46 /* LoginManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginManager.swift; sourceTree = "<group>"; };
 		81FC4B721D064F8B003F3A46 /* LoginDefaultAudience.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginDefaultAudience.swift; sourceTree = "<group>"; };
 		81FC4B7A1D065059003F3A46 /* LoginBehavior.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginBehavior.swift; sourceTree = "<group>"; };
@@ -906,6 +908,7 @@
 			isa = PBXGroup;
 			children = (
 				81FC4EF11D068564003F3A46 /* UserProfile.swift */,
+				81E3C0CB1D48196900C927ED /* UserProfile.FetchResult.swift */,
 				817021AD1D18DE1500ECE7AC /* UserProfilePictureView.swift */,
 			);
 			path = UserProfile;
@@ -1284,6 +1287,7 @@
 				811C5E781CFFD5DD00E4A925 /* Optional+OnSome.swift in Sources */,
 				815DEBCC1D024ADD000370CA /* GraphRequestProtocol.Bridge.swift in Sources */,
 				810192B31D01305400B9E881 /* AppEventsLogger.swift in Sources */,
+				81E3C0CC1D48196900C927ED /* UserProfile.FetchResult.swift in Sources */,
 				810192B11D01305400B9E881 /* AppEventParameterName.swift in Sources */,
 				811C5E771CFFD5DD00E4A925 /* Dictionary+KeyValueMap.swift in Sources */,
 				810192B21D01305400B9E881 /* AppEventsLogger.FlushBehavior.swift in Sources */,
